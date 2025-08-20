@@ -101,3 +101,7 @@ font-size: 25px;
     width: 420px;
 
 }
+.wrapper .content a{
+  text-decoration: none;
+  color: black;
+}
